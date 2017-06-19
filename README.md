@@ -1,2 +1,3 @@
 # ghtest
-Sandbox for DSSG GitHub workshop
+
+This is a sandbox for learning GitHub-based collaboration workflows.
